@@ -1,0 +1,2 @@
+# JavaSuperVariable
+super変数
